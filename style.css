@@ -1,7 +1,14 @@
 body{
-    background:#8feafa ; 
 }
 
+#banner{
+width: 100%;
+}
+.principal{
+    background:#b7e6f1 ; 
+
+}
 h2{
     text-align: center;
-}
+}em
+strong{color: red;}
